@@ -1,2 +1,2 @@
-# karma-mocha-webpack-vue
-karma-mocha-webpack-vue unit test
+# karma-mocha-webpack3-vue2
+karma+mocha+webpack3+vue2 unit test
