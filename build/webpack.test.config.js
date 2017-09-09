@@ -1,6 +1,4 @@
-var path = require("path");
-const autoprefixer = require('autoprefixer')
-const px2rem = require('postcss-px2rem')
+var path = require("path")
 var webpack = require("webpack")
 var ExtractTextPlugin = require('extract-text-webpack-plugin')
 
